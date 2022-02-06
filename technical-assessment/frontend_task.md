@@ -1,8 +1,8 @@
 <img src="https://github.com/ismailasega/projectCode-interview/blob/main/img/pcLogo.png" alt="PC_Logo" width="564" height="140">
 
-# Frontend Engineer Task
+# Frontend Developer Task
 
-Using the technoligies below:. 
+Using the technoligies below:
 
 * VueJS (v2/v3)
 * Custom CSS / Tailwind CSS / Bootstrap CSS 
@@ -31,4 +31,4 @@ Using the technoligies below:.
 Please Note:
 * Create a Repo on GitHub for your project
 * Task timeline is 3 days from the day you received it
-* Send the link of you project repo to: jobs@projectcode.com
+* Send the link of your project github repo to: jobs@projectcode.ug
