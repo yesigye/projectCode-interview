@@ -1,2 +1,2 @@
-# projectCode-interview
+# ProjectCode Interview
 Technical Assessment Interview
