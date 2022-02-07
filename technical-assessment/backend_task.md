@@ -2,4 +2,4 @@
 
 # Backend Developer Task
 
-Using the technoligies below:
+Using the technoligies below::
